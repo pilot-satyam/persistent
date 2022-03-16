@@ -5,8 +5,8 @@ def add(x,y,z):
 def sub(x,y):
     return x-y #on master branch
 #multiplication
-def mul(x,y):
-    return x*y #on bug456
+def mul(x,y,z):
+    return x*y*z #on local repo
 #division
 def div(x,y):
     if y==0:       #on master branch

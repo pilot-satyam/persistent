@@ -15,3 +15,6 @@ def div(x,y):
         return x/y
 def square(x):
     return x*x
+#Just to check the working of the directory using github
+def tri(x):
+    return x*x*x

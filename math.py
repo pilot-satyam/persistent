@@ -1,6 +1,6 @@
 #addition
-def add(x,y):
-    return x+y
+def add(x,y,z):
+    return x+y+z
 #subtraction
 def sub(x,y):
     return x-y #on master branch

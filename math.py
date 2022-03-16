@@ -18,3 +18,7 @@ def square(x):
 #Just to check the working of the directory using github
 def tri(x):
     return x*x*x
+
+#For checking branch bug123
+def quad(x):
+    x*x*x*x

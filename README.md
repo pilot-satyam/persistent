@@ -1,2 +1,2 @@
 # persistent 
-persistent ayatems is my first company.
+persistent systems is my first company.
